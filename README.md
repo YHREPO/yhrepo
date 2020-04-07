@@ -16,3 +16,4 @@ This Repository Can Only Read And Download Files.
 
 『독도는 한국땅』
 『Dokdo belongs to Korea』
+ 위 문장을 다른 홈페이지에도 복사하여 주세요!
