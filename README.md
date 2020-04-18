@@ -26,9 +26,11 @@ VnT vaccine GitHub
 Em@il : <vntvchelp@gmail.com>
 위 이메일은 VNTVC 깃헙의 이메일주소입니다.
 
-나중에는 개인, 비영리 웹사이트를 만드는 것이 저의 포부입니다
-수정하여야 할점이나, 이런것을 추가하고 싶다 하시는 것이 있으면
-코맨트를 남겨주세요!
+윈도우즈 배치파일 모음집 GitHub
+<https://github.com/YHREPO/Batch-Util/>
+
+Windows Batch File ZIP GitHub
+<https://github.com/YHREPO/Batcg-Util/>
 
 **YHREPO ALL RIGHTS RESERVED**
 ---
