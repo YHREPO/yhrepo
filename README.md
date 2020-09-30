@@ -18,7 +18,7 @@ This Repository Can Only Read And Download Files.
 
 ## YHREPO 하위 저장소
 - VnT 백신 GitHub
->  - <https://github.com/YH-104/YH104-s-Repository>
+>  - <https://github.com/vntvc/VnTVaccine>
 
 * 윈도우즈 배치파일 모음집 GitHub
 >  * <https://github.com/YHREPO/Batch-Util/>
