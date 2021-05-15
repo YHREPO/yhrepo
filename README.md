@@ -23,6 +23,9 @@ This Repository Can Only Read And Download Files.
 * 윈도우즈 배치파일 모음집 GitHub
 >  * <https://github.com/YHREPO/Batch-Util/>
 
+- YH REPOSITORY v.1.0
+>  현재 사용 불가능
+
 **YHREPO ALL RIGHTS RESERVED**
 ---
 
