@@ -27,7 +27,7 @@ This Repository Can Only Read And Download Files.
 >  현재 사용 불가능
 
 * Windows Experience Index
->  * <https://github.com/YHREPO/example>
+>  * <https://github.com/YHREPO/WinSAT>
 
 **YHREPO ALL RIGHTS RESERVED**
 ---
