@@ -24,7 +24,7 @@ This Repository Can Only Read And Download Files.
 >  * <https://github.com/YHREPO/Batch-Util/>
 
 - YH REPOSITORY v.1.0
->  현재 사용 불가능
+>  * <https://github.com/YHREPO/REPOPROG/>
 
 * Windows Experience Index
 >  * <https://github.com/YHREPO/WinSAT>
