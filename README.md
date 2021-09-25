@@ -23,7 +23,7 @@ This Repository Can Only Read And Download Files.
 * 윈도우즈 배치파일 모음집 GitHub
 >  * <https://github.com/YHREPO/Batch-Util/>
 
-- YH REPOSITORY v.1.0
+- YH REPOSITORY Program
 >  * <https://github.com/YHREPO/REPOPROG/>
 
 * Windows Experience Index
